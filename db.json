@@ -1,0 +1,40 @@
+{
+  "productList": [
+    {
+      "productName": "laptop",
+      "category": "Electronic",
+      "freshness": "Brand new",
+      "price": 123,
+      "comment": "its new",
+      "date": "2023-04-30T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "iphone",
+      "category": "Electronic",
+      "freshness": "Brand new",
+      "price": 5555,
+      "comment": "good looking",
+      "date": "2023-05-01T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "fan",
+      "category": "Electronic",
+      "freshness": "Brand new",
+      "price": 220,
+      "comment": "new",
+      "date": "2023-04-30T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "mango",
+      "category": "Frutis",
+      "freshness": "Brand new",
+      "price": 12,
+      "comment": "testy",
+      "date": "2023-04-30T18:30:00.000Z",
+      "id": 6
+    }
+  ]
+}
